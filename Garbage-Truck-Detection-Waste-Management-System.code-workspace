@@ -1,10 +1,12 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "frontend",
+			"path": "../../Desktop/garbage-truck-tracking/frontend"
 		},
 		{
-			"path": "../../Desktop/garbage-truck-tracking/frontend"
+			"name": "Garbage-Truck-Detection-Waste-Management-System",
+			"path": "."
 		}
 	],
 	"settings": {}
